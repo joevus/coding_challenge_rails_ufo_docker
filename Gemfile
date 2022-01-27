@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.7'
 # to connect to mysql
 gem 'mysql2', '~> 0.5.2'
 # For background processing
-gem 'sidekiq', '~> 6.0', '>= 6.0.4'
+gem 'sidekiq', '~> 6.4'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
